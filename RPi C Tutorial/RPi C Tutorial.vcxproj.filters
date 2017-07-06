@@ -18,7 +18,7 @@
     <ClCompile Include="Hello_World.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Joe\Documents\Visual Studio 2017\Projects\RPi C Tutorial\RPi C Tutorial\Arith.c">
+    <ClCompile Include="..\..\..\Joe\Documents\Visual Studio 2017\Projects\RPi C Tutorial\RPi C Tutorial\Arithm.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
