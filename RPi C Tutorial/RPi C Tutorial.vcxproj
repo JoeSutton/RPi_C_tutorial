@@ -111,7 +111,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Joe\Documents\Visual Studio 2017\Projects\RPi C Tutorial\RPi C Tutorial\Arith.c" />
     <ClCompile Include="Hello_World.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
